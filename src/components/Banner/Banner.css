@@ -1,0 +1,20 @@
+.banner{
+ 
+    background-image: url('https://images.pexels.com/photos/7567591/pexels-photo-7567591.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+    /* background-image: url("./cypto.jpg"); */
+    background-position: center;
+    background-size: cover;
+}
+
+
+
+.bannercontent{
+    height: 400px;
+}
+
+.tagline{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding-top: 100px;
+}
